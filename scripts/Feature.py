@@ -4,7 +4,7 @@ from pathlib import Path
 import shutil
 ##############please modify##################
 petfoldbin =f'/home/dgyancha/DirectedStudyDipesh/DRfold/bin/PETfold/bin/PETfold'
-ViennaRNAbin='/home/dgyancha/DirectedStudyDipesh/DRfold/bin/ViennaRNA-2.4.18-bin/bin/RNAfold'
+ViennaRNAbin='/home/dgyancha/DirectedStudyDipesh/DRfold/bin/ViennaRNA-2.6.4/bin/RNAfold'
 #############################################
 
 
