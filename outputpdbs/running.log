@@ -1,0 +1,1 @@
+/home/dgyancha/DirectedStudyDipesh/DRfold/bin/PETfold/bin/PETfold -f /home/dgyancha/DirectedStudyDipesh/projects/DRfold/fastatest.fastq -r /home/dgyancha/DirectedStudyDipesh/projects/DRfold/outputpdbs/seq_ss_pet.petfoldrr >/home/dgyancha/DirectedStudyDipesh/projects/DRfold/outputpdbs/seq_ss_pet.petfold
