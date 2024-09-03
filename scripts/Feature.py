@@ -3,7 +3,7 @@ import numpy as np
 from pathlib import Path
 import shutil
 ##############please modify##################
-petfoldbin =f'/home/dgyancha/DirectedStudyDipesh/DRfold/bin/PETfold/bin/PETfold/'
+petfoldbin =f'/home/dgyancha/DirectedStudyDipesh/DRfold/bin/PETfold/bin/PETfold'
 ViennaRNAbin='/usr/local/bin/RNAfold'
 #############################################
 
